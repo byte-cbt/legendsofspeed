@@ -51,6 +51,14 @@ Each file can be opened in any text editor. Players can reference them to:
 
 ---
 
+## Credits
+
+**Created by:**  
+- **[Byte CBT](https://byt3c0de.net/)** (@byte.cbt)  
+- **[Byte Software](https://bytesoftware.net/)** (discord.gg/bytesoftware)
+
+---
+
 ***Byt3c0de • 03/12/2025***
 
 <p align="center">
